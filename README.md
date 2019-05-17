@@ -3,6 +3,8 @@
 Provides miniC language support for [Vim](https://www.vim.org/) using
 [ALE](https://github.com/w0rp/ale) and [minic-lsp language server](https://github.com/BojanStipic/minic-lsp).
 
+![Screenshot](screenshot.png)
+
 ## minic-lsp
 
 minic-lsp is a [Language Server](https://langserver.org/) implementation for the miniC programming language.
